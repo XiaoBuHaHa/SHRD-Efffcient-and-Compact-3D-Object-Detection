@@ -1,2 +1,3 @@
-# SHRD-Efffcient-and-Compact-3D-Object-Detection
-Here is the official code  for Spherical-Hyperbolic Relational Distillation in Riemannian Geometry for Efffcient and Compact 3D Object Detection
+# SHRD
+This repository contains the implementation of the paper SHRD: Dynamic Riemannian Geometry Relational
+Distillation for Lightweight 3D Object Detection.
