@@ -41,7 +41,7 @@ Many thanks to following codes that help us a lot in building this codebase:
 * [mmdetection](https://github.com/open-mmlab/mmdetection)
 * [mmdetection3d](https://github.com/open-mmlab/mmdetection3d)
 * [mmsegementation](https://github.com/open-mmlab/mmsegmentation)
-
+* [PointDistiller]([https://github.com/open-mmlab/mmsegmentation](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_PointDistiller_Structured_Knowledge_Distillation_Towards_Efficient_and_Compact_3D_Detection_CVPR_2023_paper.pdf))
 ## Citation
 
 If you find our work useful in your research, please consider citing:
